@@ -32,6 +32,8 @@ amplify configure project
 
 eas build --platform android
 
+copy the api key from aws amplify and paste in the aws-export.js 
+
 
 
 check the gradle wrapper (gradle-wrapper.properties) distributionUrl=https\://services.gradle.org/distributions/gradle-7.5.1-all.zip and 
