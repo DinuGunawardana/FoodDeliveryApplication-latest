@@ -1,0 +1,39 @@
+// run this command for building android folder
+npx expo prebuild
+
+// add this to manifest in case of geolocation usage
+npm i @react-native-community/geolocation
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+"add ? after like this basketDish.Dish._j?"
+
+// to get back the dev client (!important)
+npx expo install expo-dev-client 
+
+//install eas cli deliveryFee: deliveryFee,
+        totalKM: totalKm
+npm install -g eas-cli
+
+//login
+eas login
+
+deliveryapplication9@gmail.com
+expo - sgDHF57$&^SJ
+
+eas whoami
+
+// change gradle-wrapper version and compileSdkversion if needed
+
+eas build:configure
+
+npx expo run:android
+
+amplify configure project
+
+eas build --platform android
+
+
+
+check the gradle wrapper (gradle-wrapper.properties) distributionUrl=https\://services.gradle.org/distributions/gradle-7.5.1-all.zip and 
+
+compile sdk version 33

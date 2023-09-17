@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:56:21.890Z",
+    "updatedAt": "2022-04-16T18:56:21.890Z",
+    "orderRestaurantId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "Restaurant": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "name": "Vito Wood Fired Pizza",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+      "deliveryFee": 0.039448871531492236,
+      "minDeliveryTime": 10,
+      "maxDeliveryTime": 44,
+      "rating": 1.5095123177204128,
+      "address": "56 Saranankara Rd, Kandy 20000",
+      "lat": 7.287669606622917,
+      "lng": 80.64200880674595,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "1",
+      "name": "Vadim",
+      "address": "Abc 1",
+      "lat": 7.258347151260626,
+      "lng": 80.52073019804104
+    }
+  },
+  {
+    "id": "2",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:53:32.261Z",
+    "updatedAt": "2022-04-16T18:53:32.261Z",
+    "orderRestaurantId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "Restaurant": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "name": "Java Lounge Peradeniya",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+      "deliveryFee": 0.039448871531492236,
+      "minDeliveryTime": 10,
+      "maxDeliveryTime": 44,
+      "rating": 1.5095123177204128,
+      "address": "255 Peradeniya Rd, Kandy",
+      "lat": 7.288590737702434,
+      "lng": 80.62896299656947,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "2",
+      "name": "Lukas",
+      "address": "Lithuania 1",
+      "lat": 7.258347151260626,
+      "lng": 80.52073019804104
+    }
+  },
+  {
+    "id": "3",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:56:49.713Z",
+    "updatedAt": "2022-04-16T18:56:49.713Z",
+    "orderRestaurantId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "_version": 1,
+    "_lastChangedAt": 1650135409734,
+    "_deleted": null,
+    "Restaurant": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "name": "Grand Cafe",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg",
+      "deliveryFee": 0.039448871531492236,
+      "minDeliveryTime": 10,
+      "maxDeliveryTime": 44,
+      "rating": 1.5095123177204128,
+      "address": "391 Colombo - Kandy Rd, Kandy 20000",
+      "lat": 7.285993838937885,
+      "lng": 80.62603489656944,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "3",
+      "name": "Alex",
+      "address": "Happy land",
+      "lat": 7.258347151260626,
+      "lng": 80.52073019804104
+    }
+  }
+]
